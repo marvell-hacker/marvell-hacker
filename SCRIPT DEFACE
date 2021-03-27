@@ -1,0 +1,11 @@
+pkg update && pkg upgrade
+pkg install python2
+pkg install gitl
+git clone https://github.com/4L13199/LITESCRIPT
+cd LITESCRIPT
+chmod 777 LITESCRIPT.py
+python2 LITESCRIPT.py
+Kalau udah selasai semua
+Ada tanda $
+Ketik
+mv hasilsc.html /sdcard/
